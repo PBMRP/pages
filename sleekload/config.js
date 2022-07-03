@@ -109,7 +109,7 @@ config.background_darkening = 30
 
 // Play music during the loading screen?
 // "true" or "false"
-config.music_enable = true
+config.music_enable = false
 
 // Display current music name?
 // "true" or "false"
